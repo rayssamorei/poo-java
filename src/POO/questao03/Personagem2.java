@@ -1,4 +1,4 @@
-package POO.personagem;
+package POO.questao03;
 public class Personagem2 {
     public static void main(String[] args) {
         Personagem heroi = new Personagem();

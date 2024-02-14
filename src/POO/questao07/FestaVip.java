@@ -1,4 +1,4 @@
-package POO.aula5;
+package POO.questao07;
 
 public class FestaVip {
     // <modificador> <tipo> <nome-atributo>

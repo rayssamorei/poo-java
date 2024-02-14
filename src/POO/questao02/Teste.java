@@ -1,4 +1,4 @@
-package POO.pessoa;
+package POO.questao02;
 
 public class Teste {
     public static void main(String[] args) {

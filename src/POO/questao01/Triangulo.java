@@ -1,4 +1,4 @@
-package POO.triangulo;
+package POO.questao01;
 
 public class Triangulo {
     double lado1;

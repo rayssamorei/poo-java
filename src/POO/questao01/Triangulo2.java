@@ -1,4 +1,4 @@
-package POO.triangulo;
+package POO.questao01;
 
 import java.util.Scanner;
 

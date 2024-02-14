@@ -1,4 +1,4 @@
-package POO.celular;
+package POO.questao06;
 public class Celular2 {
     public static void main(String[] args) throws Exception {
         Celular celularA = new Celular(); //Objeto

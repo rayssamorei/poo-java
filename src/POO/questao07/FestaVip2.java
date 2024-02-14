@@ -1,4 +1,4 @@
-package POO.aula5;
+package POO.questao07;
 //configurando visibilidade de atributos e metodos
 
 /*

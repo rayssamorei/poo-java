@@ -1,4 +1,4 @@
-package POO.celular;
+package POO.questao06;
 public class Celular {
     String nome;
     String sistemaOperacional;

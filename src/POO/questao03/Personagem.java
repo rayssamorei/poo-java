@@ -1,4 +1,4 @@
-package POO.personagem;
+package POO.questao03;
 import java.util.Random;
 
 public class Personagem {
